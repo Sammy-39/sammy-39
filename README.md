@@ -17,7 +17,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/madasamy-pandiarajan-910973197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="madasamy-pandiarajan-910973197" height="30" width="40" /></a>
 <a href="https://medium.com/@sammy-39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sammy-39" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/madasamy-pandiarajan-910973197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="madasamy-pandiarajan-910973197" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/sammy-39" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="@sammy-39" height="30" width="40" /></a>
 </p>
 
