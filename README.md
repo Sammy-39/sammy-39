@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sammy39-portfolio.herokuapp.com/](https://sammy39-portfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://sammy-portfolio-client.herokuapp.com/](https://sammy-portfolio-client.herokuapp.com/)
 
 - 📝 All my articles at blog [https://skillpy3.blogspot.com/](https://skillpy3.blogspot.com/)
 
