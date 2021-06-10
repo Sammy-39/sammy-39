@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sammy-portfolio-client.herokuapp.com/](https://sammy-portfolio-client.herokuapp.com/)
+- 👨‍💻 All of my projects are available at https://sammy-39.netlify.app/](https://sammy-39.netlify.app/)
 
 - 📝 I regularly write articles on [https://skillpy3.blogspot.com/](https://skillpy3.blogspot.com/)
 
