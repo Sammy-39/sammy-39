@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madasamy</h1>
-<h3 align="center">Fullstack Developer (MERN)</h3>
+<h3 align="center">Frontend Developer (React)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammy-39&label=Profile%20views&color=0e75b6&style=flat" alt="sammy-39" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://skillpy3.blogspot.com/](https://skillpy3.blogspot.com/)
 
-- 💬 Ask me about **react, node, express**
+- 💬 Ask me about **react, redux, javascript**
 
 - 📫 How to reach me **o.samy39@gmail.com**
 
