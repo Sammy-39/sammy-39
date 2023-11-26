@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammy-39&label=Profile%20views&color=0e75b6&style=flat" alt="sammy-39" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://sammy-39.netlify.app/](https://sammy-39.netlify.app/)
 
 - 📝 I regularly write articles on [https://skillpy3.blogspot.com/](https://skillpy3.blogspot.com/)
 
-- 💬 Ask me about **react, redux, javascript**
+- 💬 Ask me about **react, redux, javascript, typescript, jest**
 
 - 📫 How to reach me **o.samy39@gmail.com**
 
